@@ -8,6 +8,6 @@
    // code for coloring
 ```
 ```css
-   // code for coloring
+   // coвde for coloring
 ```
 // etc.
