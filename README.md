@@ -1,3 +1,13 @@
-# 123
-# 1232
-<font color="red"> d 
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+// etc.
