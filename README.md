@@ -4,3 +4,4 @@
 - крассный 
 ```
 
+<tspan fill="red">Hello</tspan>,
