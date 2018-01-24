@@ -45,7 +45,7 @@ cлова<br>слова|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 18:10-19:30|||History and culture of Great Britain (Lecture)|||
 _
 
-### Links to social ne ______ tworks: 
+### Links to social ne tworks: 
 * [Telegram](https://t.me/annushc)
 * [Instagram](https://www.instagram.com/annushc/)
 * [VK](https://vk.com/annushc)
